@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\",
+  "WorkspaceRootPath": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\main.h",
               "RelativeDocumentMoniker": "main.h",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\main.h",
               "RelativeToolTip": "main.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-13T18:50:52.531Z",
               "IsPinned": true,
@@ -74,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Renderer.h",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Renderer.h",
               "RelativeDocumentMoniker": "Renderer.h",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Renderer.h",
               "RelativeToolTip": "Renderer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Renderer.cpp",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Renderer.cpp",
               "RelativeDocumentMoniker": "Renderer.cpp",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Renderer.cpp",
               "RelativeToolTip": "Renderer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -100,17 +100,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "World.h",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\World.h",
               "RelativeDocumentMoniker": "World.h",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\World.h",
               "RelativeToolTip": "World.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-13T18:50:07.775Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -118,38 +117,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "World.cpp",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\World.cpp",
               "RelativeDocumentMoniker": "World.cpp",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\World.cpp",
               "RelativeToolTip": "World.cpp",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAswHsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAswKAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-13T19:14:55.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Body.h",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Body.h",
               "RelativeDocumentMoniker": "Body.h",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Body.h",
               "RelativeToolTip": "Body.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-17T15:43:47.467Z"
+              "WhenOpened": "2025-06-17T15:43:47.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Body.cpp",
-              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Body.cpp",
               "RelativeDocumentMoniker": "Body.cpp",
-              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\N-Body Physics Simulation\\Body.cpp",
               "RelativeToolTip": "Body.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-13T19:15:48.03Z",
               "EditorCaption": ""
