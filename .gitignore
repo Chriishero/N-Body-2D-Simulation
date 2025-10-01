@@ -1,3 +1,4 @@
+.vs/
 *.ipch
 */*.ipch
 lib/tgui-s-d.lib
