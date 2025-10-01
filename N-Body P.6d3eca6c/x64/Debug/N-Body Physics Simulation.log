@@ -1,0 +1,12 @@
+﻿  World.cpp
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(84,19): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(85,19): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(87,23): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(88,24): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(89,22): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(89,22): warning C4244:         with
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(89,22): warning C4244:         [
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(89,22): warning C4244:             _Ty=float
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(89,22): warning C4244:         ]
+C:\Users\chris\Documents\Programmation\Temp Synchronization\World.cpp(139,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  N-Body Physics Simulation.vcxproj -> C:\Users\chris\Documents\Programmation\Temp Synchronization\x64\Debug\N-Body Physics Simulation.exe

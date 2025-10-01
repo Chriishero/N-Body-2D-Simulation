@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3ECA6C-C38C-486E-AD9A-7801EE2F4AA7}|N-Body Physics Simulation.vcxproj|solutionrelative:Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.h",
+              "RelativeDocumentMoniker": "main.h",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.h",
+              "RelativeToolTip": "main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T18:55:46.591Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T18:50:52.531Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.h",
+              "RelativeDocumentMoniker": "Renderer.h",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.h",
+              "RelativeToolTip": "Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T18:50:00.363Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Renderer.cpp",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Renderer.cpp",
+              "RelativeToolTip": "Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T19:09:48.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "World.h",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.h",
+              "RelativeDocumentMoniker": "World.h",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.h",
+              "RelativeToolTip": "World.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T18:50:07.775Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "World.cpp",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.cpp",
+              "RelativeDocumentMoniker": "World.cpp",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\World.cpp",
+              "RelativeToolTip": "World.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswHsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T19:14:55.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Body.h",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.h",
+              "RelativeDocumentMoniker": "Body.h",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.h",
+              "RelativeToolTip": "Body.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T15:43:47.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Body.cpp",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.cpp",
+              "RelativeDocumentMoniker": "Body.cpp",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Programmation\\Temp Synchronization\\Body.cpp",
+              "RelativeToolTip": "Body.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T19:15:48.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
